@@ -1,0 +1,85 @@
+aside{
+    margin-left: auto;
+    align-content: left;
+}
+
+header{
+    background-color: cornsilk;
+  
+    font-family: sans-serif;
+    font-color: orangered;
+    font-size: 20px;
+    
+}
+
+#univesp{
+    margin-left: 10%;
+    background-color: cornsilk;    
+    width: 65%;
+    height: auto;    
+}
+#orientadores{
+    background-color: cornsilk;
+    color: orangered;
+    font-size: 18px;
+    text-align: center;
+    color: black;
+    
+}
+#orientadora{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: orangered;
+}
+section{    
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: sans-serif;
+    font-size: 18px;
+    
+}
+
+
+
+h1{    
+    margin-left: 20%;
+    margin-top: 20px;
+    font-size: 26px;
+    text-shadow:black 0.1em 0.1em 0.1em;
+    color: orangered;
+    text-decoration: none;    
+    position: relative;
+}
+h2{ 
+    margin-left: 20%;
+    color: orangered;
+    text-decoration: none;
+    text-shadow: black 0.1em 0.05em 0.1em;
+    font-size: 25px;
+    left: 30%;
+    font-family: "Roboto Light";   
+    position: absolute;
+    transform: translate(-50%);
+}
+h3{
+    font-size: 25px;
+    /*margin-left: 5%;*/
+    color: red;
+    text-shadow: black 0.1em 0.1em 0.1em;
+}
+p{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: red;
+    text-shadow:black 0.05em 0.05em 0.03em;
+}
+footer{   
+    background-color: pink;
+    margin-top: 50px;
+    clear: both;   
+    width: 100%;
+    height: auto;
+    font-color: orangered;
+    font-size: 20px;
+  
+}
